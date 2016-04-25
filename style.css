@@ -28,7 +28,7 @@ body {
   margin: 0;
   /* removes all margins from the body */
   display: table;
-  /* allows the .container to be centered */
+  color: #fff;
 }
 
 .container {
@@ -68,3 +68,4 @@ a:hover {
   background-color: #cccccc;
   /* changes the bg color to gray */
 }
+
