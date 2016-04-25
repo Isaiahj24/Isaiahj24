@@ -13,7 +13,7 @@ html {
 body {
   font-family: Arial, sans-serif;
   /* changes the font */
-  background-image: url("images/civilWar.jpg");
+  background-image: url(images/civilWar.jpg);
   /* adds a bg image */
   background-position: center center;
   /* centers the bg image */
