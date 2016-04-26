@@ -33,3 +33,10 @@ p {
 h1 {
   color: black;
 }
+
+
+div.transbox{
+  background-color: #fff;
+  opacity: 0.5;
+  filter: alpha(opacity=50)
+}
