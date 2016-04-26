@@ -58,7 +58,7 @@ a:visited,
 a:link {
   text-decoration: none;
   /* in this case, removes default underline from the links */
-  color: #FD0425;
+  color: #fff;
   /* changes font color to white */
 }
 
