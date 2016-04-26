@@ -17,6 +17,9 @@ body {
   display: table;
 }
 
+a :hover{
+  color: #fff;
+}
 .container {
   display: table-cell;
   text-align: center;
