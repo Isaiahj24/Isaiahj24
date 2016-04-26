@@ -35,7 +35,7 @@ body {
   display: table-cell;
   /* allows the next 2 style rules to work */
   text-align: center;
-  /* centers the text */
+  margin: 0px 0px 0px 50px;
   vertical-align: middle;
   /* aligns .container in the middle of the page */
 }
