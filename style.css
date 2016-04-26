@@ -65,6 +65,6 @@ a:link {
 a:hover {
   font-weight: bold;
   /* makes font bold */
-  background-color: white;
+  background-color: blue;
   /* changes the bg color to gray */
 }
