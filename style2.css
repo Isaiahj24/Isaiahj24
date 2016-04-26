@@ -24,12 +24,10 @@ body {
   vertical-align: middle;
 }
 
-img{
-  text-align: center;
-}
 p {
   color: white;
   font-weight: bold;
+  text-align: center;
 }
 h1 {
   color: black;
